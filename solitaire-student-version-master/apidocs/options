@@ -1,0 +1,22 @@
+-encoding
+'UTF-8'
+-private
+-sourcepath
+'C:/Users/crick/OneDrive/Documents/NetBeansProjects/solitaire-student-version-master/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2018. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/crick/OneDrive/Documents/NetBeansProjects/solitaire-student-version-master/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'HHS Eventweek SE: Cardgame 1.0-SNAPSHOT API'
+-linkoffline
+'http://docs.oracle.com/javase/8/docs/api' 'C:/Users/crick/OneDrive/Documents/NetBeansProjects/solitaire-student-version-master/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'HHS Eventweek SE: Cardgame 1.0-SNAPSHOT API'
